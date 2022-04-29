@@ -1,4 +1,3 @@
-
 // tester si le somme de x nombres est égale à NUMBER
 const NUMBER = 30
 
