@@ -5,12 +5,11 @@ An algorithm that checks if x numbers in the array has a number. The algorithm i
 - Node.js version >=12.2.0
 
 ### How to run the script
-To get started, just clone the repository and run `npm install && npm run dev`:
+To get started, just clone the repository and run `npm install && node main.js`:
 
 ```bash
    git clone https://github.com/prcogs/x-numbers-equal-to-one.git
-   npm install
-   npm run dev
+   node main.js
 ```
 
 ## *Author Name*
